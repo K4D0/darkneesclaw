@@ -7,7 +7,7 @@ require("./util/eventLoader")(client);
 client.ayarlar = { 
 "token": "",
 "prefix": "+",
-"sahip": "515589379704487936",
+"sahip": "",
 }
 
 client.commands = new Discord.Collection();
